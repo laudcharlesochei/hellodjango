@@ -32,6 +32,7 @@ ALLOWED_HOSTS = [
     #'localhost',
     #'127.0.0.1'
     #'vscode-django-tutorial.azurewebsites.net'  # Sample name only!
+    blooming-shore-74257.herokuapp.com
 ]
 
 # Application definition
