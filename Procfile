@@ -1,1 +1,1 @@
-web: gunicorn gettingstarted.wsgi
+web: gunicorn blooming-shore-74257.wsgi --log-file -
