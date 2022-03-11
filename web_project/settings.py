@@ -28,7 +28,12 @@ DEBUG = True
 # domain to ALLOWED_HOSTS; you get an error message if you forget. When you add
 # a specific host, you must also add 'localhost' and/or '127.0.0.1' for local
 # debugging (which are enabled by default when ALLOWED_HOSTS is empty.)
-ALLOWED_HOSTS = []
+
+ALLOWED_HOSTS = [
+    '0.0.0.0'
+    'blooming-shore-74257.herokuapp.com',
+    '127.0.0.1'
+]
 
 # Application definition
 
