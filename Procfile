@@ -1,1 +1,1 @@
-web: gunicorn blooming-shore-74257.wsgi --log-file -
+web: gunicorn web_project.wsgi --log-file -
