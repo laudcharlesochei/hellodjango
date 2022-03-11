@@ -30,9 +30,9 @@ DEBUG = True
 # debugging (which are enabled by default when ALLOWED_HOSTS is empty.)
 
 ALLOWED_HOSTS = [
-    '0.0.0.0'
+    '0.0.0.0',
     'blooming-shore-74257.herokuapp.com',
-    '127.0.0.1'
+    '127.0.0.1',
 ]
 
 # Application definition
